@@ -9,14 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Yi Jinjin's Personal Page
+title : 我叫王俊芳
 tagline: Site Tagline
 author :
-  name : Yi Jinjin
-  email : negatlov@126.com
+  name : 王俊芳
+  email : wjfxff@126.com
   github : negatlov
-  twitter : negatlov@weibo.com
-  feedburner : negatlov
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
